@@ -1,4 +1,4 @@
-!["LiveWiki Logo"](https://repository-images.githubusercontent.com/829791610/5ecb0281-c7ce-4b40-83f3-f1db9b4b9d46)
+!["LiveWiki Logo"](https://repository-images.githubusercontent.com/829791610/7eaeb0b7-4305-4eda-9ba3-5f089ebf4703)
 
 # LiveWiki - Open Source Wiki Platform
 
